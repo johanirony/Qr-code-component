@@ -1,0 +1,43 @@
+# Frontend Mentor - QR code component solution
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
+
+## Overview
+
+### Screenshot
+
+![image](https://www.linkpicture.com/view.php?img=LPic6411e8a1104e5468074588)
+
+
+### Links
+
+- Solution URL: [My Solution](https://github.com/johanirony/Qr-code-component)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+### What I learned
+
+At first, it was difficult to know what CSS properties I should apply to my project in order for the QR card to be displayed exactly the way the design is pictured. 
+
+It was fun to match the design and I have a better understanding of what properties are needed, and what aren't. I ended up removing a lot of excess styling and simplified the stylesheet.
+
+### Continued development
+
+I want to have a better grasp on CSS fundamentals, and continue to create more components that are responsive and accessible. 
